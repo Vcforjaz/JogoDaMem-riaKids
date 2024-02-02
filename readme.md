@@ -8,11 +8,14 @@
 
 ►Na próxima atualização trarei o .APK e o link do google play para download.
 
-Tela inicial:
+►Tela inicial:
 ![image](https://github.com/Vcforjaz/JogoDaMemoriaKids/blob/main/jogoDaMemoriaAppInicio.jpeg?raw=true)
-Easy mode:
+
+►Easy mode:
 ![image](https://github.com/Vcforjaz/JogoDaMemoriaKids/blob/main/jogoDaMemoriaAppEasy.jpeg?raw=true)
-Medim mode:
+
+►Medim mode:
 ![image](https://github.com/Vcforjaz/JogoDaMemoriaKids/blob/main/jogoDaMemoriaAppM%C3%A9dio.jpeg?raw=true)
-Hard mode:
+
+►Hard mode:
 ![image](https://github.com/Vcforjaz/JogoDaMemoriaKids/blob/main/jogoDaMemoriaAppHard.jpeg?raw=true)
