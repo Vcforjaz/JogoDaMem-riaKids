@@ -16,7 +16,7 @@
 
 ![image](https://github.com/Vcforjaz/JogoDaMemoriaKids/blob/main/jogoDaMemoriaAppEasy.jpeg?raw=true)
 
-►Medim mode:
+►Medium mode:
 
 ![image](https://github.com/Vcforjaz/JogoDaMemoriaKids/blob/main/jogoDaMemoriaAppM%C3%A9dio.jpeg?raw=true)
 
