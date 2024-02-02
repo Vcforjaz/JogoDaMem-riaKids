@@ -5,6 +5,7 @@
 </h1>
 
 ►O jogo se encontra na versão inicial/base, estou trabalhando em atualizações para trazer mais interações e aprimoramentos gráficos.
+Na próxima atualização trarei o .APK e o link do google play para download.
 
 ![image](https://github.com/Vcforjaz/JogoDaMemoriaKids/blob/main/jogoDaMemoriaAppInicio.jpeg?raw=true)
 ![image](https://github.com/Vcforjaz/JogoDaMemoriaKids/blob/main/jogoDaMemoriaAppEasy.jpeg?raw=true)
