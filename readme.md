@@ -6,7 +6,7 @@
 
 ►O jogo se encontra na versão inicial/base, estou trabalhando em atualizações para trazer mais interações e aprimoramentos gráficos.
 
-<a href="https://play.google.com/store/apps/details?id=appinventor.ai_victorforjaz19.Jogo_da_memoria_kids&pli=1"> Link para o jogo</a>
+<a href="https://play.google.com/store/apps/details?id=appinventor.ai_victorforjaz19.Jogo_da_memoria_kids&pli=1">Clique aqui para ver na play store.</a>
 
 ►Tela inicial:
 
